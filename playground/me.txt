@@ -1,5 +1,0 @@
-{{#user}
-Name: Lakshman Kumar
-Skills: HTML, CSS, JS, React.js, node.js, express.js
-Email: lakshmankumar2603@gmail.com
-{/user}}
